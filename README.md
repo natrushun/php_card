@@ -1,1 +1,2 @@
-# php_card
+# Indítás
+ ``` ./init.bat ```
